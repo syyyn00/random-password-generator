@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: #ECFDF5;
+    font-family: 'Inter', sans-serif;
+}
+
+#main-title{
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    color: #2B283A;
+    margin: 120px 0px 10px 55px;
+}
+
+#main-br{
+    color: #10B981;
+}
+
+#description{
+    margin: 0px 0px 70px 55px;
+    font-weight: 400;
+    color: #6B7280;
+    padding: 0px;
+}
+
+#gen-btn{
+    margin-left: 55px;
+    margin-bottom: 45px;
+    background-color: #10B981;
+    color: white;
+    border: none;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 14px 20px;
+    border-radius: 10px;
+}
+
+hr{
+    padding:0;
+    margin: 0 50px 30px;
+}
+
+#passwords{
+    margin-left: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #10B981;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.psw-container{
+    background-color: #273549;
+    width: 210px;
+    height:20px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0px 10px;
+}
+
+.psw-container > p{
+    display:flex;
+    justify-content: center;
+    margin-top: -1px;
+}
+
